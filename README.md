@@ -1,2 +1,3 @@
-# test-01
-This is your first repository created from Terraform
+# My Terraform-Managed Repository
+
+This repository is managed using Terraform.
